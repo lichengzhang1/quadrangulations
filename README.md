@@ -11,4 +11,4 @@ See relevant links.
 
 https://math.stackexchange.com/questions/4635964/all-quadrangulations-on-14-vertices
 
-We can combine plantri with nauty to find the set of 14805 graphs: ./plantri 14 -q -c2m2 -g | ./nauty/shortg
+We can combine plantri with nauty to find the set of 14805 graphs: `./plantri 14 -q -c2m2 -g | ./nauty/shortg`
